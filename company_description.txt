@@ -1,7 +1,8 @@
 
-Company name: Top dog
-# oflocations: 10
-# of employees: 50
+1. Company name: Top dog
+2. # of locations: 10
+3. # of employees: 50
+4. 5 employees per store are capable of running a small store.
 Product: Fries, Sliders, Hot dog
 Annual gross: $600,000 (estimate this using logic similar to that of the Drake equation)
 Compan's supplier: Jetro
