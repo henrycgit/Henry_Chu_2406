@@ -2,7 +2,15 @@
 1. Company name: Top dog
 2. # of locations: 10
 3. # of employees: 50
-4. 5 employees per store are capable of running a small store.
-Product: Fries, Sliders, Hot dog
-Annual gross: $600,000 (estimate this using logic similar to that of the Drake equation)
-Compan's supplier: Jetro
+4. Each store is small, so only 5 employees is needed per store.
+5. Product: Fries, Sliders, Hot dog, Soda
+6. Annual gross: $2,000,000 
+7. Fries, sliders, and hot dog are the base of my product. If customers choice to put a certain topping, it will alter the equation of the transaction.
+8. 561 transactions per day
+9. $2,000,000/356 days = $5,617.97 per day  
+   Each person spends a average of $10 per order
+   $5,617.97/10 = 561
+10. Not sure how to answer this one.
+11. Not sure how to answer this one.
+12. Anyone can be a client because everyone needs to eat.
+13. Company's supplier: Jetro
