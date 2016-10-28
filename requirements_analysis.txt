@@ -1,0 +1,5 @@
+
+21. One function shows what the clients ordered. Another function shows what topics are on their slider/hot dog.
+22. One function shows an estimate of how fast the product is gone through. Another function shows how much product needs to be ordered.
+23. Not sure how to answer this one.
+24. Not sure how to answer this one.
